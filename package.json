@@ -1,0 +1,24 @@
+{
+  "name": "localhost_static_html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FERGwElldone/localhost_static_html.git"
+  },
+  "author": "luocheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FERGwElldone/localhost_static_html/issues"
+  },
+  "homepage": "https://github.com/FERGwElldone/localhost_static_html#readme",
+  "devDependencies": {
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.4"
+  }
+}
